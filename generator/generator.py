@@ -4,8 +4,6 @@ import random
 character = (
     "Hero", 
     "Recruit",
-    "Recruitt",
-    "Recruittt",
     "Invader",
     "Commander",
     "Children",
